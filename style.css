@@ -20,7 +20,7 @@ body {
     justify-content: center;
 }
 
-main.container {
+.container {
     background: white;
     min-width: 320px;
     min-height: 40vh;
@@ -29,13 +29,13 @@ main.container {
     border-radius: 8px;
 }
 
-main h2 {
+section h2 {
     font-weight: 600;
     margin-bottom: 2rem;
     position: relative;
 }
 
-main h2::before {
+section h2::before {
     content: '';
     position: absolute;
     height: 4px;
