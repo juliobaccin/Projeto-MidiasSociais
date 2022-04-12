@@ -10,5 +10,5 @@ Projeto - Tela de Login
 https://juliobaccin.github.io/Projeto-Tela-de-Login/
 </p>
 
-<img align="center" src="https://github.com/juliobaccin/Projeto-Tela-de-Login/blob/main/Site%20Android.gif">
 <img align="center" src="https://github.com/juliobaccin/Projeto-Tela-de-Login/blob/main/Site%20Android%202.gif">
+<img align="center" src="https://github.com/juliobaccin/Projeto-Tela-de-Login/blob/main/Site%20Android.gif">
