@@ -7,8 +7,15 @@ Projeto - Tela de Login
  </p>
 
 <p align="center">
-https://juliobaccin.github.io/Projeto-Tela-de-Login/
+ você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Tela-de-Login/">aqui</a>
 </p>
 
-<img align="center" src="https://github.com/juliobaccin/Projeto-Tela-de-Login/blob/main/Site%20Android%202.gif">
-<img align="center" src="https://github.com/juliobaccin/Projeto-Tela-de-Login/blob/main/Site%20Android.gif">
+<h3 align="center">
+ Apresentação do Site
+</h3>    
+<img align="center" src="https://github.com/juliobaccin/Projeto-Tela-de-Login/blob/main/apresenta%C3%A7%C3%A3o%20site.gif">
+
+<h3 align="center">
+Responsividade
+</h3> 
+<img align="center" src="https://github.com/juliobaccin/Projeto-Tela-de-Login/blob/main/responsividade.gif">
