@@ -14,7 +14,7 @@ Projeto - Tela de Login
 <h3>
  Apresentação do Site
 </h3>    
-<img src="https://github.com/juliobaccin/Projeto-Tela-de-Login/blob/main/apresenta%C3%A7%C3%A3o%20site.gif">
+<img src="https://github.com/juliobaccin/Projeto-Tela-de-Login/blob/main/apresenta%20site.gif">
  <h3>
   Responsividade
  </h3> 
