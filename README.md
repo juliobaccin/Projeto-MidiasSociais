@@ -3,7 +3,7 @@ Projeto - Tela de Login
 </h1>
  
  <p align="center">
- Tela de login feito somente com <strong>HTML</strong> e <strong>CSS</strong>. Desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
+ Tela de login feita somente com <strong>HTML</strong> e <strong>CSS</strong>. Desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
  </p>
 
 <p align="center">
