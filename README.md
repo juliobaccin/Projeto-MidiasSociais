@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Projeto - Tela de Login
+Projeto - Midias Sociais
 </h1>
  
  <p align="center">
