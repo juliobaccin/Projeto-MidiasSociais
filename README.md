@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Projeto - Midias Sociais
+Projeto - Mídias Sociais
 </h1>
  
  <p align="center">
